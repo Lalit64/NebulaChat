@@ -4,10 +4,9 @@ NebulaChat is a chat application built using JavaScript, [Socket.io](https://soc
 
 ## Usage
 
-###```npm install``` to install dev dependencies
+```npm install``` to install dev dependencies
 
-###```npm start``` to start the backend server
+```npm start``` to start the backend server
 
-###```cd public```
-
-###```npm start``` to start the frontend server
+```cd public```
+```npm start``` to start the frontend server
